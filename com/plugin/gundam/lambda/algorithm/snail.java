@@ -1,4 +1,4 @@
-package com.plugin.gundam.algorithm;
+package com.plugin.gundam.lambda.algorithm;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

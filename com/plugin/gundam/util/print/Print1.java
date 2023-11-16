@@ -1,4 +1,4 @@
-package com.plugin.gundam.print;
+package com.plugin.gundam.util.print;
 
 public class Print1 {
 

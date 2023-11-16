@@ -1,4 +1,4 @@
-package com.plugin.gundam.time;
+package com.plugin.gundam.util.time;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
